@@ -167,4 +167,4 @@ layout.addWidget(text_group)
 central_widget.setLayout(layout)
 
 window.show()
-app.exec_()
+app.exec()
